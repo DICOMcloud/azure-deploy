@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
 </a>
 
-This template deploys a [**DICOMcloud server**](https://github.com/DICOMcloud/DICOMcloud). The **DICOMcloud server** implements the standard **[DICOMweb](https://www.dicomstandard.org/dicomweb/) protocl with qido-rs, wado-rs, stow-rs, wado-uri RESTful services**
+This template deploys a [**DICOMcloud server**](https://github.com/DICOMcloud/DICOMcloud). The **DICOMcloud server** implements the standard **[DICOMweb](https://www.dicomstandard.org/dicomweb/) protocol with qido-rs, wado-rs, stow-rs, wado-uri RESTful services**
 
 ## DICOMcloud server overview and deployed resources
 
