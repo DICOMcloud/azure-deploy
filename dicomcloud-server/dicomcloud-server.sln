@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "dicomcloud-server-basic", "dicomcloud-server-basic.deployproj", "{C2F435F8-1233-46B4-83AF-D252B236B169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F435F8-1233-46B4-83AF-D252B236B169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F435F8-1233-46B4-83AF-D252B236B169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F435F8-1233-46B4-83AF-D252B236B169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F435F8-1233-46B4-83AF-D252B236B169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEF68801-41BC-407C-B840-6BF433B10A15}
+	EndGlobalSection
+EndGlobal
